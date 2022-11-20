@@ -12,5 +12,6 @@
 ![plot](./maze3.jpg)
 
 * Allow you cheat, find one cookie to win and show all map.
-! [plot](./maze5.jpg)
-! [plot](./maze4.jpg)
+
+![plot](./maze5.jpg)
+![plot](./maze4.jpg)
